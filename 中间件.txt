@@ -1,0 +1,9 @@
+1、首先 建一个文件夹 middleware
+2、在文件夹 middleware 打开命令行
+3、初始化：npm init -y
+4、安装express ：npm install express
+5、创建js文件模块
+
+路由和中间件？？
+    路由和中间件 并不是一个意思，只是用法比较相似，但是两个概念
+ 
